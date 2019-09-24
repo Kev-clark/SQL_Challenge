@@ -16,27 +16,26 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 ### Before You Begin
 
-1. Create a new repository for this project called `sql-challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository for this project called `sql-challenge`. **Do not add this homework to an existing repository**.-DONE
 
-2. Clone the new repository to your computer.
+2. Clone the new repository to your computer.-DONE
 
-3. Inside your local git repository, create a directory for the SQL challenge. Use a folder name to correspond to the challenge: **EmployeeSQL**.
+3. Inside your local git repository, create a directory for the SQL challenge. Use a folder name to correspond to the challenge: **EmployeeSQL**.-DONE
 
-4. Add your files to this folder.
+4. Add your files to this folder.-DONE
 
-5. Push the above changes to GitHub.
+5. Push the above changes to GitHub.-DONE
 
 ## Instructions
 
 #### Data Modeling
 
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
-
+Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).-UPDATE PICTURE FOR changes
 #### Data Engineering
 
 * Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
-* Import each CSV file into the corresponding SQL table.
+* Import each CSV file into the corresponding SQL table.-DONE
 
 #### Data Analysis
 
